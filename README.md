@@ -90,6 +90,6 @@ a automação é o diferencial construído sobre ele.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kellyfiocchi&show_icons=true&theme=tokyonight)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-QA%20Pleno%20%7C%20QA%20Automation-3fb950?style=for-the-badge)
 
 </div>
